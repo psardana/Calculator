@@ -9,6 +9,7 @@ namespace Calculator.Test
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.AreEqual(2, 5);
         }
     }
 }
